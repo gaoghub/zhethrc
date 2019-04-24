@@ -5,7 +5,7 @@ Interact with any ERC20 standard Ethereum token
 This package is ultimate response to historic issue of no native API being available to PHP developers to interact with 
 ERC20 tokens (i.e. web3js contracts API).
 
-This package communicates directly with `Geth` using `RPC` ([furqansiddiqui/ethereum-rpc](https://github.com/furqansiddiqui/ethereum-rpc/)) and performs all `ABI` encoding and decoding in background, 
+This package communicates directly with `Geth` using `RPC` ([myetrc/ethereum-rpc](https://github.com/furqansiddiqui/ethereum-rpc/)) and performs all `ABI` encoding and decoding in background, 
 resulting in pure simple and easy to use API for developers to perform all ERC20 standard operations.
 
 ## Demo
@@ -37,7 +37,7 @@ int(18)
 ### Prerequisites
 
 * **PHP** >= 7.1+
-* **Ethereum RPC client** ([furqansiddiqui/ethereum-rpc](https://github.com/furqansiddiqui/ethereum-rpc/)) > 1.0
+* **Ethereum RPC client** ([myethrc/ethereum-rpc](https://github.com/myetcrc/ethereum-rpc/)) > 1.0
 
 ## ABI
 
